@@ -1,0 +1,10 @@
+.cadastro-container { max-width: 500px; margin: 20px auto; font-family: sans-serif; }
+fieldset { margin-bottom: 1rem; border: 1px solid #ccc; padding: 1rem; border-radius: 4px; }
+label { display: block; margin-top: 0.5rem; font-weight: bold; }
+input, select { width: 100%; padding: 0.4rem; margin-top: 0.2rem; box-sizing: border-box; border: 1px solid #ccc; }
+input.ruim { border-color: #b32c45; }
+.erro { color: #b32c45; font-size: 0.85em; display: block; margin-top: 0.2rem; }
+button { margin-top: 1rem; padding: 0.5rem 1.5rem; cursor: pointer; }
+button:disabled { opacity: 0.5; cursor: not-allowed; }
+.cartao { border: 1px solid #ddd; padding: 0.5rem; border-radius: 4px; margin-bottom: 0.5rem; }
+.cartao span { display: block; color: #666; font-size: 0.9em; }
